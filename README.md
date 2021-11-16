@@ -11,7 +11,7 @@
 
 ##
 
-<div style="display: inline_block">
+<div style="display: inline_block; flex-wrap: nowrap">
   <a href="https://github.com/Bseancy/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bseancy&show_icons=true&theme=vision-friendly-dark&layout=compact" />
   </a>
