@@ -13,10 +13,10 @@
 
 <div style="display: inline_block; flex-wrap: nowrap">
   <a href="https://github.com/Bseancy/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bseancy&show_icons=true&theme=vision-friendly-dark&layout=compact" />
+    <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api?username=Bseancy&show_icons=true&theme=vision-friendly-dark&layout=compact" />
   </a>
   <a href="https://github.com/Bseancy/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bseancy&layout=compact&theme=vision-friendly-dark" />
+    <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bseancy&layout=compact&theme=vision-friendly-dark" />
   </a>
 </div>
 
