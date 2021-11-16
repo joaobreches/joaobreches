@@ -13,7 +13,7 @@
 
 <div style="display: inline_block; flex-wrap: nowrap">
   <a href="https://github.com/Bseancy/github-readme-stats">
-    <img height="150em" width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=Bseancy&show_icons=true&theme=vision-friendly-dark&layout=compact" />
+    <img height="140em" width="430px" align="center" src="https://github-readme-stats.vercel.app/api?username=Bseancy&show_icons=true&theme=vision-friendly-dark&layout=compact" />
   </a>
   <a href="https://github.com/Bseancy/github-readme-stats">
     <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bseancy&layout=compact&theme=vision-friendly-dark" />
