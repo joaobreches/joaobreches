@@ -14,11 +14,11 @@
 ##
 
 <div style="display: inline_block; flex-wrap: nowrap">
-  <a href="https://github.com/Bseancy/github-readme-stats">
-    <img height="160em" width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=Bseancy&show_icons=true&theme=vision-friendly-dark&layout=compact" />
+  <a href="https://github.com/joaobreches/github-readme-stats">
+    <img height="160em" width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=joaobreches&show_icons=true&theme=vision-friendly-dark&layout=compact" />
   </a>
-  <a href="https://github.com/Bseancy/github-readme-stats">
-    <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bseancy&layout=compact&theme=vision-friendly-dark" />
+  <a href="https://github.com/joaobreches/github-readme-stats">
+    <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobreches&layout=compact&theme=vision-friendly-dark" />
   </a>
 </div>
 
@@ -41,7 +41,7 @@
   <a href="www.linkedin.com/in/joaobreches" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/Bseancy/Bseancy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/joaobreches/joaobreches/blob/output/github-contribution-grid-snake.svg)
 
 
 
