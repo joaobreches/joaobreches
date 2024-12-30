@@ -7,8 +7,7 @@
   🐱‍💻 Estudante de engenharia de computação um pouco nerd se divertindo com alguns códigos. Seja bem vindo!
 </div>
 <div align="center"><br>
-  <img style= "text-align: center" alt="hide" height="150" style="border-radius:50px;" src="![17355835371574199083566773136171](https://github.com/user-attachments/assets/3e956102-7f0e-4647-84ce-3497735524f9)
-">
+  <img style= "text-align: center" alt="hide" height="150" style="border-radius:50px;" src=" https://tenor.com/innH4NpIbfY.gif ">
 </div>
 
 
