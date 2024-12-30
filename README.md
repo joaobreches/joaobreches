@@ -7,7 +7,7 @@
   🐱‍💻 Estudante de engenharia de computação um pouco nerd se divertindo com alguns códigos. Seja bem vindo!
 </div>
 <div align="center"><br>
-  <img style= "text-align: center" alt="hide" height="150" style="border-radius:50px;" src="https://tenor.com/view/sparklepandalana-penguin-penguin-typing-gif-6893334903474882028"
+  <img style= "text-align: center" alt="hide" height="150" style="border-radius:50px;" src="[https://tenor.com/view/sparklepandalana-penguin-penguin-typing-gif-6893334903474882028](https://media.tenor.com/X6oLkn9sBewAAAAi/sparklepandalana-penguin.gif)"
 </div>
 
 
