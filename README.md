@@ -1,10 +1,10 @@
 
 <div align="center">
-  <h1> 🪂 Oba, Bão? 🪂 </h1>
+  <h1> Olá, tudo certo? </h1>
 </div>
 
 <div align="center">
-  🐱‍💻 Há um garoto nerd se divertindo por aqui. Seja bem vindo!
+  🐱‍💻 Estudante de engenharia de computação um pouco nerd se divertindo com alguns códigos. Seja bem vindo!
 </div>
 <div align="center"><br>
   <img style= "text-align: center" alt="hide" height="150" style="border-radius:50px;" src="https://i.imgur.com/iBIOci0.gif">
